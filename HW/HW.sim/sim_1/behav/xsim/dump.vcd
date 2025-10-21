@@ -1,0 +1,33 @@
+$date
+   Sat May 11 22:49:44 2024
+$end
+$version
+  2019.1
+$end
+$timescale
+  1ps
+$end
+$scope module full_adder_tb $end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var reg 1 # c $end
+$var wire 1 $ sum $end
+$var wire 1 % carry $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+1"
+0#
+1$
+0%
+$end
+#5000
+1#
+0$
+1%
+#10000
+1!
+1$
+1%
