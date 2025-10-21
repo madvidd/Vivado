@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Fri May 19 17:20:58 2023
+# Process ID: 3672
+# Current directory: D:/Vivado/projects/project_1/project_1.runs/synth_1
+# Command line: vivado.exe -log JK_flip_flop.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source JK_flip_flop.tcl
+# Log file: D:/Vivado/projects/project_1/project_1.runs/synth_1/JK_flip_flop.vds
+# Journal file: D:/Vivado/projects/project_1/project_1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source JK_flip_flop.tcl -notrace
